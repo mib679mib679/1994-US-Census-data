@@ -1,4 +1,4 @@
-# 1994_US_Census_data
+# 1994 US Census data
 
 The main file of this project is income.ipynb and Decision_tree.ipynb, a simple analysis report is in income.ipynb.
 
